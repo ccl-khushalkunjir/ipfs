@@ -1,0 +1,25 @@
+{
+  "name": "private-ipfs-network",
+  "version": "1.0.0",
+  "description": "IPFS cluster setup: 3 nodes",
+  "main": "ipfs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaincodechd/private-ipfs-network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaincodechd/private-ipfs-network/issues"
+  },
+  "homepage": "https://github.com/chaincodechd/private-ipfs-network#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "ipfs": "^0.66.0"
+  }
+}
